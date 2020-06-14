@@ -17,4 +17,5 @@ For generate train/val/test dataset for Mask-RCNN, run `Mask_RCNN-for-SUN-RGB-D/
 In `Coordinate Recovery` folder, you will find the code and test images. To run the test, please see `CoordinateRecovery.ipynb`. For complete code, see `CoordinateRecovery.py`. RGB image, depth image, mask, intrinsic matrix and extrinsic matrix are needed.
 
 ## DeepLabV3
-In 'DeepLabV3' folder, 
+In 'DeepLabV3' folder, aspp.py,deeplabv3.py,resnet.py contains the code for building the DeepLabV3 model. To initialize the model, you need to import all classes in aspp,resnet, and deeplabv3 py files. the file - train.py contains the code for training the model.
+
