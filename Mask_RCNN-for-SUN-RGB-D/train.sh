@@ -1,0 +1,1 @@
+python3 samples/sun/sun.py train --dataset=../SUNRGBD/train --logs=./logs --weights=/datasets/home/81/381/hmeng/Mask_RCNN-for-SUN-RGB-D/logs/olddata_30/mask_rcnn_sun_0030.h5

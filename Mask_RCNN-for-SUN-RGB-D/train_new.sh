@@ -1,0 +1,1 @@
+python3 samples/sun/sun.py train --dataset=../sunrgbd-meta-data/ --logs=./logs --weights=coco

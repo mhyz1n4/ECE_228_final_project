@@ -1,0 +1,1 @@
+python3 samples/sun/sun.py test --image=../sunrgbd-meta-data/train/img-000204.jpg --logs=./test_logs --weights=/datasets/home/81/381/hmeng/Mask_RCNN-for-SUN-RGB-D/logs/keep_train_old/mask_rcnn_sun_0011.h5
